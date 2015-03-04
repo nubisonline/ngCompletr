@@ -1,6 +1,6 @@
 {
   "name": "ngCompletr",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "",
   "authors": [
     "Alexandru Badiu <andu@ctrlz.ro>"
@@ -13,8 +13,8 @@
   ],
   "license": "MIT",
   "main": [
-    "./dist/ngCompletr.0.0.2.js",
-    "./dist/ngCompletr.0.0.2.css"
+    "./dist/ngCompletr.0.0.3.js",
+    "./dist/ngCompletr.0.0.3.css"
   ],
   "ignore": [
     "example",
