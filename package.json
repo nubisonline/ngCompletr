@@ -1,8 +1,8 @@
 {
   "name": "ngCompletr",
   "description": "Autocomplete for AngularJS.",
-  "version": "0.0.2",
-  "repository": "https://github.com/voidberg/ng-completr",
+  "version": "0.0.3",
+  "repository": "https://github.com/nubisonline/ng-completr",
   "author": {
     "name": "Alexandru Badiu",
     "email": "andu@demotix.com"
