@@ -118,6 +118,7 @@ If you're creating a pull request, also please add yourself to the `CONTRIBUTORS
 
 ## Release History
 
+* 0.0.3 - Fix ng-if problem on dropdown
 * 0.0.2 - Initial public release
 * 0.0.1 - Internal release
 
